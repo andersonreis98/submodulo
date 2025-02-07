@@ -1,5 +1,7 @@
 # submodulo
-diretório criado para teste de submodulo do curso de github
+diretório criado para teste de submodulo do curso de github:
+
+# exemplos da linguagem mmarkdown
 
 # E-commerce empresa X
 
